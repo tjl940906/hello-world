@@ -1,2 +1,4 @@
 # hello-world
-a new resipotory
+
+Hello Earth!
+This is an example.
